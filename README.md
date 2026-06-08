@@ -19,6 +19,7 @@ De momento solo he subido esta web para practicar CSS Grid
 | Proyecto | Descripción | Tecnologías |
 | --- | --- | --- |
 | [css_grid_visita_coruna](https://github.com/GARI-86/css_grid_visita_coruna) | Galería de imágenes responsive usando CSS Grid. | HTML, CSS Grid |
+| [JS_BlackJack](https://github.com/GARI-86/JS_Blackjack) | Practica de JavaScript del clásico juego BlackJack para probar diferentes métodos y funciones que permite JavaScript.. | HTML, CSS, JavaScript |
 
 
 ## 📫 ¿Cómo contactarme?
