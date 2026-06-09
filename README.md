@@ -16,11 +16,11 @@ Profesional con más de 15 años de experiencia en gestión de equipos, operacio
 
 De momento solo he subido esta web para practicar CSS Grid
 
-| Proyecto | Descripción | Tecnologías |
-| --- | --- | --- |
-| [css_grid_visita_coruna](https://github.com/GARI-86/css_grid_visita_coruna) | Galería de imágenes responsive usando CSS Grid. | HTML, CSS Grid |
-| [JS_BlackJack](https://github.com/GARI-86/JS_Blackjack) | Practica de JavaScript del clásico juego BlackJack para probar diferentes métodos y funciones que permite JavaScript.. | HTML, CSS, JavaScript |
-| [Web_Agencia](https://github.com/GARI-86/JS_Blackjack) | Página web dinámica de agencia de Marketing, aplicable a varios ámbitos profesionales | HTML, CSS, JavaScript |
+| Proyecto | Descripción | Tecnologías | Visitar |
+| --- | --- | --- | --- |
+| [css_grid_visita_coruna](https://github.com/GARI-86/css_grid_visita_coruna) | Galería de imágenes responsive usando CSS Grid. | HTML, CSS Grid | [Enlace](https://gari-86.github.io/css_grid_visita_coruna/)
+| [JS_BlackJack](https://github.com/GARI-86/JS_Blackjack) | Practica de JavaScript del clásico juego BlackJack para probar diferentes métodos y funciones que permite JavaScript.. | HTML, CSS, JavaScript | [Enlace](https://gari-86.github.io/JS_Blackjack/)
+| [Web_Agencia](https://github.com/GARI-86/JS_Blackjack) | Página web dinámica de agencia de Marketing, aplicable a varios ámbitos profesionales | HTML, CSS, JavaScript | [Enlace](https://gari-86.github.io/web_agencia/)
 
 ## 📫 ¿Cómo contactarme?
 
