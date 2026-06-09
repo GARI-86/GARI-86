@@ -26,11 +26,11 @@ De momento solo he subido esta web para practicar CSS Grid
 
 - **LinkedIn**: https://www.linkedin.com/in/leandro-garibaldi-ferreiro
 - **mail**: lgaribaldi86@gmail.com
-- **Portfolio web**: En construcción
+
 
 ## 🌱 Más sobre mí
 
 - 🎬 Vengo del mundo de la creación de contenidos, eventos y asociacionismo.
-- 📚 Actualmente estudiando Desarrollo Frontend.
+- 📚 Actualmente Cursando estudios de Desarrollo Frontend para obtener el certificado IFCD0110 de Confección y Publicación de Páginas Web.
 - 🎯 Objetivo: crear aplicaciones web accesibles y con buena experiencia de usuario.
 - ✨ Dato curioso: posiblemente haya consumido más manga y anime del que recomendarían los médicos.
