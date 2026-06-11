@@ -6,7 +6,7 @@ Profesional con más de 15 años de experiencia en gestión de equipos, operacio
 
 ## 🚀 Tecnologías que domino (y sigo practicando)
 
-- **Maquetación web**: HTML5, CSS3, CSS Grid, Flexbox
+- **Maquetación web**: HTML5, CSS3, CSS Grid, Flexbox, WordPress
 - **Herramientas**: Git, GitHub, VSCode
 - **IA** Gemini, ChatGPT, Deepseek, Twilio, AI Prompt Genius
 - **Actualmente estudiando**: JavaScript / Typescritp, React / Claude Code
