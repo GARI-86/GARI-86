@@ -10,7 +10,7 @@ Profesional con más de 15 años de experiencia en gestión de equipos, operacio
 - **Herramientas**: Git, GitHub, VSCode
 - **IA** Gemini, ChatGPT, Deepseek, Twilio, AI Prompt Genius
 - **Actualmente estudiando**: JavaScript / Typescritp, React / Claude Code
-- **Póximos estudios** Vue.js, PHP y MySQL, Python, n8n
+- **Póximos cursos** Vue.js, PHP y MySQL, Python, n8n
 
 ## 📌 Proyectos 
 
